@@ -1,0 +1,12 @@
+{
+  "quests": [
+    {
+      "project": "Example Project",
+      "task": "Daily check-in",
+      "points": 100,
+      "done": false,
+      "due": null,
+      "notes": "example entry, replace with your own quests"
+    }
+  ]
+}
